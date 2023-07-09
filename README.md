@@ -10,7 +10,7 @@ To create Postgres database in CLI, follow these steps:
 
 2.Create Database:
 
-   `CREATE DATABASE mydb `
+   `CREATE DATABASE taskdb `
 
 ## Build and Run
 To build and run the Lab Report Validating API, follow these steps:
